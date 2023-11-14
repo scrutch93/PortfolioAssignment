@@ -1,4 +1,4 @@
-package com.pluralsightfinance;
+package com.pluralsight;
 
 public abstract class FixedAsset implements Valuable {
     protected String name;

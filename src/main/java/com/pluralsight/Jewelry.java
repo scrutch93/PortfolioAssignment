@@ -1,4 +1,4 @@
-package com.pluralsightfinance;
+package com.pluralsight;
 
 public class Jewelry extends FixedAsset {
 
