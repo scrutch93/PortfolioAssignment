@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.pluralsightfinance;
 
 public interface Valuable {
 
