@@ -1,6 +1,6 @@
 package com.pluralsightfinance;
 
-public class Jewelry extends FixedAsset implements Valuable{
+public class Jewelry extends FixedAsset {
 
     private double karat;
 
